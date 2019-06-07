@@ -5,5 +5,5 @@ function iterativeLog(array){
 }
 
 function log(element, index){
-  console.log(`${index}: ${element}.`)
+  console.log(`${index}: ${element}`)
 }
